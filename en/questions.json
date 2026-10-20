@@ -1,0 +1,374 @@
+[
+  {
+    "id": "m01",
+    "category": "Members",
+    "text": "How many members are there in RESCENE?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "explanation": "RESCENE has five members: Woni, Liv, Minami, May, and Zena."
+  },
+  {
+    "id": "m02",
+    "category": "Members",
+    "text": "Which of these is NOT a RESCENE member?",
+    "options": [
+      "Woni",
+      "Minami",
+      "Zena",
+      "Hanni"
+    ],
+    "answer": "Hanni",
+    "explanation": "RESCENE members are Woni, Liv, Minami, May, and Zena."
+  },
+  {
+    "id": "m03",
+    "category": "Members",
+    "text": "Which of these is NOT a RESCENE member?",
+    "options": [
+      "Liv",
+      "May",
+      "Yuna",
+      "Woni"
+    ],
+    "answer": "Yuna",
+    "explanation": "RESCENE members are Woni, Liv, Minami, May, and Zena."
+  },
+  {
+    "id": "m04",
+    "category": "Members",
+    "text": "Which RESCENE member is from Japan?",
+    "options": [
+      "Woni",
+      "May",
+      "Minami",
+      "Zena"
+    ],
+    "answer": "Minami",
+    "explanation": "Minami is the Japanese member of RESCENE."
+  },
+  {
+    "id": "m05",
+    "category": "Members",
+    "text": "What is the Korean name of the member written as 'LIV' in English?",
+    "options": [
+      "Lia",
+      "Liv",
+      "Libi",
+      "Lip"
+    ],
+    "answer": "Liv",
+    "explanation": "LIV is pronounced 'Liv'."
+  },
+  {
+    "id": "m06",
+    "category": "Members",
+    "text": "Which member is written as 'ZENA' in English?",
+    "options": [
+      "Zena",
+      "Gina",
+      "Jennie",
+      "Sena"
+    ],
+    "answer": "Zena"
+  },
+  {
+    "id": "m07",
+    "category": "Members",
+    "text": "Which member is written as 'WONI' in English?",
+    "options": [
+      "Woni",
+      "Wonnie",
+      "Wonhee",
+      "Oni"
+    ],
+    "answer": "Woni"
+  },
+  {
+    "id": "m08",
+    "category": "Members",
+    "text": "Which pair is made of only RESCENE members?",
+    "options": [
+      "May · Zena",
+      "May · Minji",
+      "Liv · Karina",
+      "Woni · Winter"
+    ],
+    "answer": "May · Zena"
+  },
+  {
+    "id": "c01",
+    "category": "Characters",
+    "text": "Which member is this character?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May",
+      "Zena"
+    ],
+    "answer": "Woni",
+    "explanation": "The character with the pink ribbon is Woni.",
+    "image": "images/who_woni.png"
+  },
+  {
+    "id": "c02",
+    "category": "Characters",
+    "text": "Which member is this character?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May",
+      "Zena"
+    ],
+    "answer": "Liv",
+    "explanation": "The mint-colored character with a yellow star is Liv.",
+    "image": "images/who_liv.png"
+  },
+  {
+    "id": "c03",
+    "category": "Characters",
+    "text": "Which member is this character?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May",
+      "Zena"
+    ],
+    "answer": "Minami",
+    "explanation": "The sky-blue character with a white hairband is Minami.",
+    "image": "images/who_minami.png"
+  },
+  {
+    "id": "c04",
+    "category": "Characters",
+    "text": "Which member is this character?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May",
+      "Zena"
+    ],
+    "answer": "May",
+    "explanation": "The yellow character with a pink flower is May.",
+    "image": "images/who_may.png"
+  },
+  {
+    "id": "c05",
+    "category": "Characters",
+    "text": "Which member is this character?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May",
+      "Zena"
+    ],
+    "answer": "Zena",
+    "explanation": "The purple character with sparkles is Zena.",
+    "image": "images/who_zena.png"
+  },
+  {
+    "id": "c06",
+    "category": "Characters",
+    "text": "In this app, what head accessory does Woni's character wear?",
+    "options": [
+      "Ribbon",
+      "Flower",
+      "Star",
+      "Hairband"
+    ],
+    "answer": "Ribbon"
+  },
+  {
+    "id": "c07",
+    "category": "Characters",
+    "text": "In this app, what head accessory does May's character wear?",
+    "options": [
+      "Ribbon",
+      "Flower",
+      "Star",
+      "Hairband"
+    ],
+    "answer": "Flower"
+  },
+  {
+    "id": "c08",
+    "category": "Characters",
+    "text": "In this app, what head accessory does Minami's character wear?",
+    "options": [
+      "Ribbon",
+      "Flower",
+      "Star",
+      "Hairband"
+    ],
+    "answer": "Hairband"
+  },
+  {
+    "id": "c09",
+    "category": "Characters",
+    "text": "In this app, which character wears mint-colored clothes?",
+    "options": [
+      "Liv",
+      "May",
+      "Zena",
+      "Woni"
+    ],
+    "answer": "Liv"
+  },
+  {
+    "id": "c10",
+    "category": "Characters",
+    "text": "In this app, which character wears purple clothes?",
+    "options": [
+      "Minami",
+      "Zena",
+      "May",
+      "Woni"
+    ],
+    "answer": "Zena"
+  },
+  {
+    "id": "c11",
+    "category": "Characters",
+    "text": "What are all the member characters holding in this app?",
+    "options": [
+      "Perfume bottle",
+      "Microphone",
+      "Light stick",
+      "Bouquet"
+    ],
+    "answer": "Perfume bottle",
+    "explanation": "They all hold perfume bottles to match the Scent concept."
+  },
+  {
+    "id": "d01",
+    "category": "Debut & career",
+    "text": "In which year did RESCENE debut?",
+    "options": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "answer": "2024",
+    "explanation": "RESCENE debuted in March 2024."
+  },
+  {
+    "id": "d02",
+    "category": "Debut & career",
+    "text": "In which month did RESCENE debut?",
+    "options": [
+      "January",
+      "March",
+      "June",
+      "September"
+    ],
+    "answer": "March",
+    "explanation": "RESCENE debuted on March 26, 2024."
+  },
+  {
+    "id": "d03",
+    "category": "Debut & career",
+    "text": "What is RESCENE's agency?",
+    "options": [
+      "THE MUSE Entertainment",
+      "Starship Entertainment",
+      "SM Entertainment",
+      "JYP Entertainment"
+    ],
+    "answer": "THE MUSE Entertainment"
+  },
+  {
+    "id": "d04",
+    "category": "Debut & career",
+    "text": "What is the name of RESCENE's debut single album?",
+    "options": [
+      "Re:Scene",
+      "Scentist",
+      "Glow Up",
+      "Rebirth"
+    ],
+    "answer": "Re:Scene"
+  },
+  {
+    "id": "d05",
+    "category": "Debut & career",
+    "text": "What is RESCENE's debut title track?",
+    "options": [
+      "UhUh",
+      "YoYo",
+      "LOVE ATTACK",
+      "Hype Boy"
+    ],
+    "answer": "UhUh"
+  },
+  {
+    "id": "d06",
+    "category": "Debut & career",
+    "text": "What is the title track of RESCENE's second single album 'Scentist'?",
+    "options": [
+      "UhUh",
+      "YoYo",
+      "LOVE DIVE",
+      "Ditto"
+    ],
+    "answer": "YoYo"
+  },
+  {
+    "id": "d07",
+    "category": "Debut & career",
+    "text": "Which of these is a RESCENE song?",
+    "options": [
+      "LOVE ATTACK",
+      "LOVE DIVE",
+      "Next Level",
+      "Super Shy"
+    ],
+    "answer": "LOVE ATTACK"
+  },
+  {
+    "id": "d08",
+    "category": "Debut & career",
+    "text": "What concept keyword best represents RESCENE?",
+    "options": [
+      "Scent",
+      "Space",
+      "Ocean",
+      "Games"
+    ],
+    "answer": "Scent",
+    "explanation": "RESCENE is a group built around a 'Scent' concept."
+  },
+  {
+    "id": "d09",
+    "category": "Debut & career",
+    "text": "Which English word is hidden in the album name 'Scentist'?",
+    "options": [
+      "Scent",
+      "Scene",
+      "Sense",
+      "Cent"
+    ],
+    "answer": "Scent"
+  },
+  {
+    "id": "d10",
+    "category": "Debut & career",
+    "text": "Which spelling of the group's English name is correct?",
+    "options": [
+      "RESCENE",
+      "RISCENE",
+      "RESEEN",
+      "REZCENE"
+    ],
+    "answer": "RESCENE"
+  }
+]
