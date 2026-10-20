@@ -1,0 +1,374 @@
+[
+  {
+    "id": "m01",
+    "category": "멤버",
+    "text": "리센느는 모두 몇 명의 멤버로 이루어져 있을까요?",
+    "options": [
+      "3명",
+      "4명",
+      "5명",
+      "6명"
+    ],
+    "answer": "5명",
+    "explanation": "리센느는 원이, 리브, 미나미, 메이, 제나 5명이에요."
+  },
+  {
+    "id": "m02",
+    "category": "멤버",
+    "text": "다음 중 리센느 멤버가 아닌 사람은?",
+    "options": [
+      "원이",
+      "미나미",
+      "제나",
+      "하니"
+    ],
+    "answer": "하니",
+    "explanation": "리센느 멤버는 원이, 리브, 미나미, 메이, 제나예요."
+  },
+  {
+    "id": "m03",
+    "category": "멤버",
+    "text": "다음 중 리센느 멤버가 아닌 사람은?",
+    "options": [
+      "리브",
+      "메이",
+      "유나",
+      "원이"
+    ],
+    "answer": "유나",
+    "explanation": "리센느 멤버는 원이, 리브, 미나미, 메이, 제나예요."
+  },
+  {
+    "id": "m04",
+    "category": "멤버",
+    "text": "리센느 멤버 중 일본 출신 멤버는 누구일까요?",
+    "options": [
+      "원이",
+      "메이",
+      "미나미",
+      "제나"
+    ],
+    "answer": "미나미",
+    "explanation": "미나미는 일본 출신 멤버예요."
+  },
+  {
+    "id": "m05",
+    "category": "멤버",
+    "text": "영어로 'LIV'라고 쓰는 멤버의 한글 이름은?",
+    "options": [
+      "리아",
+      "리브",
+      "리비",
+      "립"
+    ],
+    "answer": "리브",
+    "explanation": "LIV는 '리브'라고 읽어요."
+  },
+  {
+    "id": "m06",
+    "category": "멤버",
+    "text": "영어로 'ZENA'라고 쓰는 멤버는?",
+    "options": [
+      "제나",
+      "지나",
+      "제니",
+      "세나"
+    ],
+    "answer": "제나"
+  },
+  {
+    "id": "m07",
+    "category": "멤버",
+    "text": "영어로 'WONI'라고 쓰는 멤버는?",
+    "options": [
+      "워니",
+      "원이",
+      "원희",
+      "온이"
+    ],
+    "answer": "원이"
+  },
+  {
+    "id": "m08",
+    "category": "멤버",
+    "text": "다음 중 리센느 멤버로만 짝지어진 것은?",
+    "options": [
+      "메이 · 제나",
+      "메이 · 민지",
+      "리브 · 카리나",
+      "원이 · 윈터"
+    ],
+    "answer": "메이 · 제나"
+  },
+  {
+    "id": "c01",
+    "category": "캐릭터",
+    "text": "이 캐릭터는 어떤 멤버일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "원이",
+    "explanation": "핑크 리본을 단 캐릭터는 원이예요.",
+    "image": "images/who_woni.png"
+  },
+  {
+    "id": "c02",
+    "category": "캐릭터",
+    "text": "이 캐릭터는 어떤 멤버일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "리브",
+    "explanation": "노란 별 장식을 단 민트색 캐릭터는 리브예요.",
+    "image": "images/who_liv.png"
+  },
+  {
+    "id": "c03",
+    "category": "캐릭터",
+    "text": "이 캐릭터는 어떤 멤버일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "미나미",
+    "explanation": "하얀 헤어밴드를 한 하늘색 캐릭터는 미나미예요.",
+    "image": "images/who_minami.png"
+  },
+  {
+    "id": "c04",
+    "category": "캐릭터",
+    "text": "이 캐릭터는 어떤 멤버일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "메이",
+    "explanation": "분홍 꽃을 단 노란색 캐릭터는 메이예요.",
+    "image": "images/who_may.png"
+  },
+  {
+    "id": "c05",
+    "category": "캐릭터",
+    "text": "이 캐릭터는 어떤 멤버일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "제나",
+    "explanation": "반짝이 장식을 단 보라색 캐릭터는 제나예요.",
+    "image": "images/who_zena.png"
+  },
+  {
+    "id": "c06",
+    "category": "캐릭터",
+    "text": "이 앱에서 '원이' 캐릭터의 머리 장식은?",
+    "options": [
+      "리본",
+      "꽃",
+      "별",
+      "헤어밴드"
+    ],
+    "answer": "리본"
+  },
+  {
+    "id": "c07",
+    "category": "캐릭터",
+    "text": "이 앱에서 '메이' 캐릭터의 머리 장식은?",
+    "options": [
+      "리본",
+      "꽃",
+      "별",
+      "헤어밴드"
+    ],
+    "answer": "꽃"
+  },
+  {
+    "id": "c08",
+    "category": "캐릭터",
+    "text": "이 앱에서 '미나미' 캐릭터의 머리 장식은?",
+    "options": [
+      "리본",
+      "꽃",
+      "별",
+      "헤어밴드"
+    ],
+    "answer": "헤어밴드"
+  },
+  {
+    "id": "c09",
+    "category": "캐릭터",
+    "text": "이 앱에서 민트색 옷을 입은 캐릭터는 누구일까요?",
+    "options": [
+      "리브",
+      "메이",
+      "제나",
+      "원이"
+    ],
+    "answer": "리브"
+  },
+  {
+    "id": "c10",
+    "category": "캐릭터",
+    "text": "이 앱에서 보라색 옷을 입은 캐릭터는 누구일까요?",
+    "options": [
+      "미나미",
+      "제나",
+      "메이",
+      "원이"
+    ],
+    "answer": "제나"
+  },
+  {
+    "id": "c11",
+    "category": "캐릭터",
+    "text": "이 앱의 멤버 캐릭터들이 모두 손에 들고 있는 물건은?",
+    "options": [
+      "향수병",
+      "마이크",
+      "응원봉",
+      "꽃다발"
+    ],
+    "answer": "향수병",
+    "explanation": "향기(Scent) 콘셉트를 담아 모두 향수병을 들고 있어요."
+  },
+  {
+    "id": "d01",
+    "category": "데뷔·활동",
+    "text": "리센느가 데뷔한 해는?",
+    "options": [
+      "2022년",
+      "2023년",
+      "2024년",
+      "2025년"
+    ],
+    "answer": "2024년",
+    "explanation": "리센느는 2024년 3월에 데뷔했어요."
+  },
+  {
+    "id": "d02",
+    "category": "데뷔·활동",
+    "text": "리센느가 데뷔한 달은?",
+    "options": [
+      "1월",
+      "3월",
+      "6월",
+      "9월"
+    ],
+    "answer": "3월",
+    "explanation": "리센느는 2024년 3월 26일에 데뷔했어요."
+  },
+  {
+    "id": "d03",
+    "category": "데뷔·활동",
+    "text": "리센느의 소속사는?",
+    "options": [
+      "더뮤즈엔터테인먼트",
+      "스타쉽엔터테인먼트",
+      "SM엔터테인먼트",
+      "JYP엔터테인먼트"
+    ],
+    "answer": "더뮤즈엔터테인먼트"
+  },
+  {
+    "id": "d04",
+    "category": "데뷔·활동",
+    "text": "리센느의 데뷔 싱글 앨범 이름은?",
+    "options": [
+      "Re:Scene",
+      "Scentist",
+      "Glow Up",
+      "Rebirth"
+    ],
+    "answer": "Re:Scene"
+  },
+  {
+    "id": "d05",
+    "category": "데뷔·활동",
+    "text": "리센느의 데뷔 타이틀곡은?",
+    "options": [
+      "UhUh",
+      "YoYo",
+      "LOVE ATTACK",
+      "Hype Boy"
+    ],
+    "answer": "UhUh"
+  },
+  {
+    "id": "d06",
+    "category": "데뷔·활동",
+    "text": "리센느의 두 번째 싱글 앨범 'Scentist'의 타이틀곡은?",
+    "options": [
+      "UhUh",
+      "YoYo",
+      "LOVE DIVE",
+      "Ditto"
+    ],
+    "answer": "YoYo"
+  },
+  {
+    "id": "d07",
+    "category": "데뷔·활동",
+    "text": "다음 중 리센느의 노래는?",
+    "options": [
+      "LOVE ATTACK",
+      "LOVE DIVE",
+      "Next Level",
+      "Super Shy"
+    ],
+    "answer": "LOVE ATTACK"
+  },
+  {
+    "id": "d08",
+    "category": "데뷔·활동",
+    "text": "리센느를 상징하는 대표 콘셉트 키워드는?",
+    "options": [
+      "향기",
+      "우주",
+      "바다",
+      "게임"
+    ],
+    "answer": "향기",
+    "explanation": "리센느는 '향기(Scent)'를 콘셉트로 한 그룹이에요."
+  },
+  {
+    "id": "d09",
+    "category": "데뷔·활동",
+    "text": "앨범 이름 'Scentist'에 숨어 있는 영어 단어는?",
+    "options": [
+      "Scent (향기)",
+      "Scene (장면)",
+      "Sense (감각)",
+      "Cent (센트)"
+    ],
+    "answer": "Scent (향기)"
+  },
+  {
+    "id": "d10",
+    "category": "데뷔·활동",
+    "text": "리센느의 영어 그룹명 철자로 올바른 것은?",
+    "options": [
+      "RESCENE",
+      "RISCENE",
+      "RESEEN",
+      "REZCENE"
+    ],
+    "answer": "RESCENE"
+  }
+]
