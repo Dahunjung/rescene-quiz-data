@@ -101,6 +101,71 @@
     "answer": "May · Zena"
   },
   {
+    "id": "m09",
+    "category": "Members",
+    "text": "Where is Woni from?",
+    "options": [
+      "Geoje",
+      "Suwon",
+      "Goyang",
+      "Gyeongju"
+    ],
+    "answer": "Geoje",
+    "explanation": "Woni is from Geoje, South Gyeongsang Province."
+  },
+  {
+    "id": "m10",
+    "category": "Members",
+    "text": "Where is Liv from?",
+    "options": [
+      "Geoje",
+      "Suwon",
+      "Goyang",
+      "Gyeongju"
+    ],
+    "answer": "Suwon",
+    "explanation": "Liv is from Suwon, Gyeonggi Province."
+  },
+  {
+    "id": "m11",
+    "category": "Members",
+    "text": "Where is Minami from?",
+    "options": [
+      "Chiba",
+      "Tokyo",
+      "Osaka",
+      "Fukuoka"
+    ],
+    "answer": "Chiba",
+    "explanation": "Minami is from Chiba Prefecture, Japan."
+  },
+  {
+    "id": "m12",
+    "category": "Members",
+    "text": "Where is May from?",
+    "options": [
+      "Geoje",
+      "Suwon",
+      "Goyang",
+      "Gyeongju"
+    ],
+    "answer": "Goyang",
+    "explanation": "May is from Goyang, Gyeonggi Province."
+  },
+  {
+    "id": "m13",
+    "category": "Members",
+    "text": "Where is Zena from?",
+    "options": [
+      "Geoje",
+      "Suwon",
+      "Goyang",
+      "Gyeongju"
+    ],
+    "answer": "Gyeongju",
+    "explanation": "Zena is from Gyeongju, North Gyeongsang Province."
+  },
+  {
     "id": "c01",
     "category": "Characters",
     "text": "Which member is this character?",
@@ -370,5 +435,17 @@
       "REZCENE"
     ],
     "answer": "RESCENE"
+  },
+  {
+    "id": "d11",
+    "category": "Debut & career",
+    "text": "What is the real name of 'Kku', the CEO of RESCENE's agency?",
+    "options": [
+      "Yoo Young-woo",
+      "Lee Seon-min",
+      "Lee Ju-heon",
+      "Kim Young-kwang"
+    ],
+    "answer": "Lee Ju-heon"
   }
 ]
