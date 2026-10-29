@@ -352,5 +352,218 @@
     "answer": "Manchester City",
     "explanation": "Through a halftime show at the 2026 Coupang Play Series, RESCENE formed a connection with Manchester City.",
     "image": "images/mancity.jpeg"
+  },
+  {
+    "id": "d24",
+    "category": "Debut & career",
+    "text": "Which Samsung Galaxy smartphone model has RESCENE been advertising since October 28, 2026?",
+    "options": [
+      "Galaxy Z Fold8",
+      "Galaxy S26 Ultra",
+      "Galaxy S26",
+      "Galaxy Z Flip8"
+    ],
+    "answer": "Galaxy Z Fold8"
+  },
+  {
+    "id": "n01",
+    "category": "Minami",
+    "text": "Minami's family are such big fans of this brand that one of them is said to be among only three VIPs in Japan. Which brand is it?",
+    "options": [
+      "Stone Island",
+      "Coach",
+      "Diesel",
+      "Stussy"
+    ],
+    "answer": "Diesel"
+  },
+  {
+    "id": "d25",
+    "category": "Debut & career",
+    "text": "Which THE MUSE Entertainment executive do fans call 'RESCENE's 6th member'?",
+    "options": [
+      "Lee Ju-heon",
+      "Kim Hye-soo",
+      "Lee Young-ja",
+      "Jeon Hyun-moo"
+    ],
+    "answer": "Kim Hye-soo"
+  },
+  {
+    "id": "h37",
+    "category": "RESCENE",
+    "text": "Which line from Woni and Zena's dialect video became a catchphrase?",
+    "options": [
+      "물은 줍니까?",
+      "집은 줍니까?",
+      "밥은 줍니까?",
+      "돈은 줍니까?"
+    ],
+    "answer": "밥은 줍니까?",
+    "explanation": "It was also used in the title of the Korea Tourism Organization's Geoje video."
+  },
+  {
+    "id": "z01",
+    "category": "Zena",
+    "text": "Which virtual girl group did Zena work for as a visual model in middle school?",
+    "options": [
+      "PLAVE",
+      "MAVE:",
+      "ETERNITY",
+      "K/DA"
+    ],
+    "answer": "MAVE:",
+    "explanation": "Her stage name 'Zena' is also said to come from that project."
+  },
+  {
+    "id": "z02",
+    "category": "Zena",
+    "text": "What is Zena's real name?",
+    "options": [
+      "Jin Kyung-eun",
+      "Lee Ye-bin",
+      "Jung Won-i",
+      "Kim Ga-young"
+    ],
+    "answer": "Kim Ga-young"
+  },
+  {
+    "id": "y12",
+    "category": "May",
+    "text": "In May's nickname 'Ito May', whose family name is 'Ito'?",
+    "options": [
+      "Minami",
+      "Woni",
+      "Liv",
+      "Zena"
+    ],
+    "answer": "Minami",
+    "explanation": "It's a teasing nickname because her Korean pronunciation was said to be less fluent than Minami's."
+  },
+  {
+    "id": "y13",
+    "category": "May",
+    "text": "Which member is known as the only Thinking (T) type among the members?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May"
+    ],
+    "answer": "May",
+    "explanation": "May's MBTI is known to be INTP."
+  },
+  {
+    "id": "y14",
+    "category": "May",
+    "text": "What catchphrase did May leave on her second appearance on Anwonjalbu?",
+    "options": [
+      "못 먹어도 고!",
+      "기회는 그립감이 좋다",
+      "내일은 내일의 해",
+      "오늘만 산다"
+    ],
+    "answer": "기회는 그립감이 좋다"
+  },
+  {
+    "id": "y15",
+    "category": "May",
+    "text": "Which YouTube channel did May appear on to learn how to run?",
+    "options": [
+      "Chimchakman",
+      "Pisik University",
+      "With Sean",
+      "Workman"
+    ],
+    "answer": "With Sean",
+    "explanation": "She ran 6.25 km with Sean."
+  },
+  {
+    "id": "y16",
+    "category": "May",
+    "text": "What is May's real name?",
+    "options": [
+      "Lee Ye-bin",
+      "Jin Kyung-eun",
+      "Jung Won-i",
+      "Kim Ga-young"
+    ],
+    "answer": "Lee Ye-bin"
+  },
+  {
+    "id": "y17",
+    "category": "May",
+    "text": "What promise did May make on a live stream?",
+    "options": [
+      "Swim in the Han River",
+      "Shave her head",
+      "Send gifts to 100 fans",
+      "Run to Geoje if they enter the music chart TOP 100"
+    ],
+    "answer": "Run to Geoje if they enter the music chart TOP 100",
+    "explanation": "LOVE ATTACK really charted again and became a hot topic."
+  },
+  {
+    "id": "l01",
+    "category": "Liv",
+    "text": "Which of these is a nickname for Liv?",
+    "options": [
+      "Me Chan-ho",
+      "Suwon King Toes",
+      "Geoje Oyster Tony",
+      "Silla Grandma"
+    ],
+    "answer": "Suwon King Toes",
+    "explanation": "She also has nicknames like 'Suwon Galbi' and 'Hwaseong Fortress'."
+  },
+  {
+    "id": "l02",
+    "category": "Liv",
+    "text": "What talent is Liv famous for?",
+    "options": [
+      "Handstand",
+      "Standing on one foot for a long time",
+      "Making a thumbs-up with her toes",
+      "Winking 100 times"
+    ],
+    "answer": "Making a thumbs-up with her toes",
+    "explanation": "That talent also led to the nickname 'Suwon King Toes'."
+  },
+  {
+    "id": "l03",
+    "category": "Liv",
+    "text": "Which catchphrase did Liv push from her first Anwonjalbu appearance that became famous?",
+    "options": [
+      "나만 그래?",
+      "너도? 나도!",
+      "같이 가자!",
+      "그럴 수 있지!"
+    ],
+    "answer": "너도? 나도!"
+  },
+  {
+    "id": "l04",
+    "category": "Liv",
+    "text": "What is Liv's real name?",
+    "options": [
+      "Lee Ye-bin",
+      "Kim Ga-young",
+      "Jin Kyung-eun",
+      "Jung Won-i"
+    ],
+    "answer": "Jin Kyung-eun"
+  },
+  {
+    "id": "w01",
+    "category": "Woni",
+    "text": "What does Woni's famous catchphrase 'Oishie~' originally mean?",
+    "options": [
+      "Hello",
+      "Thank you",
+      "Pretty",
+      "Delicious"
+    ],
+    "answer": "Delicious",
+    "explanation": "It's the Japanese word 'oishii' mixed with a Gyeongnam accent."
   }
 ]
