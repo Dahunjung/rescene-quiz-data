@@ -312,5 +312,45 @@
     ],
     "answer": "Minami - Woni - Liv - May - Zena",
     "image": "images/galaxy.png"
+  },
+  {
+    "id": "d21",
+    "category": "Debut & career",
+    "text": "On which music show did RESCENE get their first win?",
+    "options": [
+      "THE SHOW",
+      "Inkigayo",
+      "Show! Music Core",
+      "Music Bank"
+    ],
+    "answer": "THE SHOW",
+    "explanation": "On July 14, 2026, they took their first win on THE SHOW, about two years after debut."
+  },
+  {
+    "id": "d22",
+    "category": "Debut & career",
+    "text": "Which KBO team did RESCENE first throw a ceremonial first pitch for?",
+    "options": [
+      "LG Twins",
+      "Kia Tigers",
+      "Hanwha Eagles",
+      "Samsung Lions"
+    ],
+    "answer": "Samsung Lions",
+    "explanation": "Early after debut, in August 2024, they threw the first pitch by invitation of the Samsung Lions."
+  },
+  {
+    "id": "d23",
+    "category": "Debut & career",
+    "text": "Which football club's kit are RESCENE wearing in this photo?",
+    "options": [
+      "Real Madrid",
+      "Manchester United",
+      "Manchester City",
+      "Liverpool"
+    ],
+    "answer": "Manchester City",
+    "explanation": "Through a halftime show at the 2026 Coupang Play Series, RESCENE formed a connection with Manchester City.",
+    "image": "images/mancity.jpeg"
   }
 ]
