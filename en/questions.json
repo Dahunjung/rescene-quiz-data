@@ -299,5 +299,18 @@
       "Kim Young-kwang"
     ],
     "answer": "Lee Ju-heon"
+  },
+  {
+    "id": "g01",
+    "category": "RESCENE",
+    "text": "Which option correctly lists the members in this photo from left to right?",
+    "options": [
+      "Woni - Liv - Minami - May - Zena",
+      "Minami - Woni - Zena - May - Zena",
+      "Minami - Woni - Liv - May - Zena",
+      "Minami - Zena - Liv - May - Woni"
+    ],
+    "answer": "Minami - Woni - Liv - May - Zena",
+    "image": "images/galaxy.png"
   }
 ]
