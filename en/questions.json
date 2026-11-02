@@ -427,6 +427,19 @@
     "answer": "28"
   },
   {
+    "id": "d29",
+    "category": "RESCENE",
+    "text": "Which RESCENE member is the shortest?",
+    "options": [
+      "May",
+      "Zena",
+      "Woni",
+      "Minami"
+    ],
+    "answer": "May",
+    "explanation": "According to her profile, May is 157 cm — the shortest in the group."
+  },
+  {
     "id": "h37",
     "category": "RESCENE",
     "text": "Which line from Woni and Zena's dialect video became a catchphrase?",
