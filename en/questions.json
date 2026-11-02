@@ -390,6 +390,43 @@
     "answer": "Kim Hye-soo"
   },
   {
+    "id": "d26",
+    "category": "Debut & career",
+    "text": "Which bank selected RESCENE as its new advertising model starting October 30, 2026?",
+    "options": [
+      "Woori Bank",
+      "KB Kookmin Bank",
+      "Hana Bank",
+      "Shinhan Bank"
+    ],
+    "answer": "Woori Bank",
+    "explanation": "Woori Bank chose RESCENE as its new model and released the CM song '우리는 해'."
+  },
+  {
+    "id": "d27",
+    "category": "Debut & career",
+    "text": "How many kinds of photocards were included in the first release of RESCENE bread?",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "d28",
+    "category": "Debut & career",
+    "text": "How many kinds of photocards are included in the second release of RESCENE bread (from Oct 25)?",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "answer": "28"
+  },
+  {
     "id": "h37",
     "category": "RESCENE",
     "text": "Which line from Woni and Zena's dialect video became a catchphrase?",
