@@ -628,5 +628,44 @@
     ],
     "answer": "Delicious",
     "explanation": "It's the Japanese word 'oishii' mixed with a Gyeongnam accent."
+  },
+  {
+    "id": "g02",
+    "category": "RESCENE",
+    "text": "What is the correct order of the members in this photo?",
+    "options": [
+      "May - Minami - Woni - Zena - Liv",
+      "May - Liv - Woni - Zena - Minami",
+      "May - Minami - Woni - Liv - Zena",
+      "Zena - Liv - Woni - May - Minami"
+    ],
+    "answer": "May - Minami - Woni - Zena - Liv",
+    "image": "images/silhouette_order.png"
+  },
+  {
+    "id": "l05",
+    "category": "Liv",
+    "text": "How many kg did Liv say she lost on Anwonjalbu?",
+    "options": [
+      "10kg",
+      "13kg",
+      "15kg",
+      "18kg"
+    ],
+    "answer": "13kg",
+    "image": "images/liv_13kg.png"
+  },
+  {
+    "id": "n02",
+    "category": "Minami",
+    "text": "How many kg did Minami say she lost on Anwonjalbu?",
+    "options": [
+      "10kg",
+      "13kg",
+      "15kg",
+      "18kg"
+    ],
+    "answer": "18kg",
+    "image": "images/minami_18kg.png"
   }
 ]

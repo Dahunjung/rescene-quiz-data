@@ -1674,5 +1674,44 @@
     ],
     "answer": "맛있다",
     "explanation": "일본어 '오이시이'에 경남 억양이 섞인 말이에요."
+  },
+  {
+    "id": "g02",
+    "category": "리센느",
+    "text": "위 사진에 있는 멤버 순서를 맞추세요?",
+    "options": [
+      "메이 - 미나미 - 원이 - 제나 - 리브",
+      "메이 - 리브 - 원이 - 제나 - 미나미",
+      "메이 - 미나미 - 원이 - 리브 - 제나",
+      "제나 - 리브 - 원이 - 메이 - 미나미"
+    ],
+    "answer": "메이 - 미나미 - 원이 - 제나 - 리브",
+    "image": "images/silhouette_order.png"
+  },
+  {
+    "id": "l05",
+    "category": "리브",
+    "text": "안원잘부에서 공개한 리브의 몸무게 감량 kg은?",
+    "options": [
+      "10kg",
+      "13kg",
+      "15kg",
+      "18kg"
+    ],
+    "answer": "13kg",
+    "image": "images/liv_13kg.png"
+  },
+  {
+    "id": "n02",
+    "category": "미나미",
+    "text": "안원잘부에서 공개한 미나미의 몸무게 감량 kg은?",
+    "options": [
+      "10kg",
+      "13kg",
+      "15kg",
+      "18kg"
+    ],
+    "answer": "18kg",
+    "image": "images/minami_18kg.png"
   }
 ]
