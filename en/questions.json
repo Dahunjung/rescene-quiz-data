@@ -720,5 +720,32 @@
     "answer": "Ansan FC",
     "explanation": "It's from the Ansan FC match celebration performance on May 4, 2025.",
     "image": "images/woni_ansan.jpeg"
+  },
+  {
+    "id": "l06",
+    "category": "Liv",
+    "text": "What food does Liv like?",
+    "options": [
+      "Mala tang",
+      "Yeopgi tteokbokki",
+      "Jjamppong",
+      "Pizza"
+    ],
+    "answer": "Yeopgi tteokbokki",
+    "explanation": "In the Anwonjalbu 'War with Fat' video, you can see Liv is a Yeopteok addict."
+  },
+  {
+    "id": "g03",
+    "category": "RESCENE",
+    "text": "Match the RESCENE members in order from left to right",
+    "options": [
+      "Woni - Liv - Minami - May - Zena",
+      "Liv - Woni - May - Minami - Zena",
+      "Minami - May - Woni - Liv - Zena",
+      "Woni - Liv - May - Minami - Zena"
+    ],
+    "answer": "Woni - Liv - Minami - May - Zena",
+    "explanation": "In Zena's trot medley video, Zena plays the bbangbbang while the other members sing backup.",
+    "image": "images/bbangbbang.png"
   }
 ]
