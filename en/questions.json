@@ -693,5 +693,32 @@
     ],
     "answer": "With",
     "explanation": "The title track of the 4th mini album PULSE is 'With'."
+  },
+  {
+    "id": "y19",
+    "category": "RESCENE",
+    "text": "In the Anwonjalbu 'ㅁㅁㅁㅁㅁㅁㅁㅁㅁㅁ' video, what does 'ㅁ' stand for?",
+    "options": [
+      "Ate",
+      "Took a bath",
+      "Thirsty",
+      "Messed up (manghaetda)"
+    ],
+    "answer": "Messed up (manghaetda)",
+    "explanation": "Because of broadcast censorship, 'manghaetda' (messed up) was written as 'ㅁ'."
+  },
+  {
+    "id": "w02",
+    "category": "Woni",
+    "text": "In the legendary jeans-fit meme photo of Woni, which football team's kit is she wearing?",
+    "options": [
+      "Paju FC",
+      "Suwon FC",
+      "Ansan FC",
+      "Geoje FC"
+    ],
+    "answer": "Ansan FC",
+    "explanation": "It's from the Ansan FC match celebration performance on May 4, 2025.",
+    "image": "images/woni_ansan.jpeg"
   }
 ]
