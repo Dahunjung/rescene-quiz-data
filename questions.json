@@ -1713,5 +1713,31 @@
     ],
     "answer": "18kg",
     "image": "images/minami_18kg.png"
+  },
+  {
+    "id": "d30",
+    "category": "리센느",
+    "text": "26/11/3에 발매한 PULSE 앨범 수록곡이 아닌 것은?",
+    "options": [
+      "With",
+      "MEME",
+      "Dragon",
+      "LOVE ATTACK"
+    ],
+    "answer": "LOVE ATTACK",
+    "explanation": "PULSE 수록곡은 Finest Thing, With, 백화요란(Inside Out), MEME, Dragon이에요. LOVE ATTACK은 이전 앨범 곡이에요."
+  },
+  {
+    "id": "d31",
+    "category": "리센느",
+    "text": "PULSE 앨범 타이틀곡은?",
+    "options": [
+      "백화요란",
+      "With",
+      "MEME",
+      "Dragon"
+    ],
+    "answer": "With",
+    "explanation": "미니 4집 PULSE의 타이틀곡은 'With'예요."
   }
 ]

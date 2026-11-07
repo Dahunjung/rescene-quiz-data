@@ -667,5 +667,31 @@
     ],
     "answer": "18kg",
     "image": "images/minami_18kg.png"
+  },
+  {
+    "id": "d30",
+    "category": "Debut & career",
+    "text": "Which song is NOT on the PULSE album released on Nov 3, 2026?",
+    "options": [
+      "With",
+      "MEME",
+      "Dragon",
+      "LOVE ATTACK"
+    ],
+    "answer": "LOVE ATTACK",
+    "explanation": "PULSE tracks are Finest Thing, With, Inside Out, MEME, and Dragon. LOVE ATTACK is from an earlier release."
+  },
+  {
+    "id": "d31",
+    "category": "Debut & career",
+    "text": "What is the title track of the PULSE album?",
+    "options": [
+      "Inside Out",
+      "With",
+      "MEME",
+      "Dragon"
+    ],
+    "answer": "With",
+    "explanation": "The title track of the 4th mini album PULSE is 'With'."
   }
 ]
