@@ -1817,5 +1817,71 @@
       "베스트 트롯 퍼포먼스"
     ],
     "answer": "베스트 트롯 퍼포먼스"
+  },
+  {
+    "id": "y20",
+    "category": "리센느",
+    "text": "'피디니무'로 유명한 안원잘부 채널의 PD 이름은?",
+    "options": [
+      "김태호",
+      "나영석",
+      "침착맨",
+      "윤성원"
+    ],
+    "answer": "윤성원"
+  },
+  {
+    "id": "y21",
+    "category": "리센느",
+    "text": "이 사진 속 리센느가 출연한 라디오 프로그램의 이름은?",
+    "options": [
+      "배성제의 텐",
+      "두시탈출 컬투쇼",
+      "김영철의 파워FM",
+      "웬디의 영스트리트"
+    ],
+    "answer": "배성제의 텐",
+    "explanation": "리센느가 유명해지기 전부터 종종 출연했던 라디오 프로그램입니다.",
+    "image": "images/baeten.png"
+  },
+  {
+    "id": "z03",
+    "category": "제나",
+    "text": "이 사진은 어떤 멤버의 졸업사진 일까요?",
+    "options": [
+      "원이",
+      "리브",
+      "메이",
+      "제나"
+    ],
+    "answer": "제나",
+    "explanation": "제나의 초등학교 졸업사진이에요.",
+    "image": "images/zena_graduation.png"
+  },
+  {
+    "id": "w03",
+    "category": "원이",
+    "text": "이 사진은 어떤 멤버의 졸업사진 일까요?",
+    "options": [
+      "원이",
+      "미나미",
+      "리브",
+      "제나"
+    ],
+    "answer": "원이",
+    "image": "images/woni_graduation.png"
+  },
+  {
+    "id": "m26",
+    "category": "메이",
+    "text": "사진 속 이 멤버는 누구일까요?",
+    "options": [
+      "제나",
+      "메이",
+      "리브",
+      "미나미"
+    ],
+    "answer": "메이",
+    "image": "images/mei_school.png"
   }
 ]

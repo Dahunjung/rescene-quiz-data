@@ -771,5 +771,71 @@
       "Best Trot Performance"
     ],
     "answer": "Best Trot Performance"
+  },
+  {
+    "id": "y20",
+    "category": "RESCENE",
+    "text": "What is the name of the Anwonjalbu channel PD known as 'PD Nimu'?",
+    "options": [
+      "Kim Tae-ho",
+      "Na Young-seok",
+      "Chimchakman",
+      "Yoon Seong-won"
+    ],
+    "answer": "Yoon Seong-won"
+  },
+  {
+    "id": "y21",
+    "category": "RESCENE",
+    "text": "What is the name of the radio show RESCENE appeared on in this photo?",
+    "options": [
+      "Bae Sung-jae's Ten",
+      "Cultwo Show",
+      "Kim Young-chul's Power FM",
+      "Wendy's Young Street"
+    ],
+    "answer": "Bae Sung-jae's Ten",
+    "explanation": "A radio show RESCENE often appeared on even before they became widely famous.",
+    "image": "images/baeten.png"
+  },
+  {
+    "id": "z03",
+    "category": "Zena",
+    "text": "Which member's graduation photo is this?",
+    "options": [
+      "Woni",
+      "Liv",
+      "May",
+      "Zena"
+    ],
+    "answer": "Zena",
+    "explanation": "It's Zena's elementary school graduation photo.",
+    "image": "images/zena_graduation.png"
+  },
+  {
+    "id": "w03",
+    "category": "Woni",
+    "text": "Which member's graduation photo is this?",
+    "options": [
+      "Woni",
+      "Minami",
+      "Liv",
+      "Zena"
+    ],
+    "answer": "Woni",
+    "image": "images/woni_graduation.png"
+  },
+  {
+    "id": "m26",
+    "category": "May",
+    "text": "Which member is in this photo?",
+    "options": [
+      "Zena",
+      "May",
+      "Liv",
+      "Minami"
+    ],
+    "answer": "May",
+    "image": "images/mei_school.png"
   }
 ]
