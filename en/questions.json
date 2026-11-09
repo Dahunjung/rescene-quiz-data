@@ -747,5 +747,29 @@
     "answer": "Woni - Liv - Minami - May - Zena",
     "explanation": "In Zena's trot medley video, Zena plays the bbangbbang while the other members sing backup.",
     "image": "images/bbangbbang.png"
+  },
+  {
+    "id": "d32",
+    "category": "Debut & career",
+    "text": "How many awards did RESCENE win at the 2026 Korea Grand Music Awards (KGM)?",
+    "options": [
+      "2 awards",
+      "3 awards",
+      "4 awards",
+      "5 awards"
+    ],
+    "answer": "4 awards"
+  },
+  {
+    "id": "d33",
+    "category": "Debut & career",
+    "text": "Which award did RESCENE NOT receive at the 2026 Korea Grand Music Awards (KGM)?",
+    "options": [
+      "Best Artist",
+      "Grand Honors Choice",
+      "Best Memory",
+      "Best Trot Performance"
+    ],
+    "answer": "Best Trot Performance"
   }
 ]
