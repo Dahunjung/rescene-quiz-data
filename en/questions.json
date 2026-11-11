@@ -837,5 +837,17 @@
     ],
     "answer": "May",
     "image": "images/mei_school.png"
+  },
+  {
+    "id": "d34",
+    "category": "Debut & career",
+    "text": "When did RESCENE debut?",
+    "options": [
+      "March 26, 2024",
+      "February 28, 2024",
+      "June 10, 2024",
+      "May 8, 2024"
+    ],
+    "answer": "March 26, 2024"
   }
 ]
