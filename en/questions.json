@@ -849,5 +849,56 @@
       "May 8, 2024"
     ],
     "answer": "March 26, 2024"
+  },
+  {
+    "id": "d35",
+    "category": "Debut & career",
+    "text": "How big is RESCENE's newly moved dorm?",
+    "options": [
+      "66 pyeong",
+      "77 pyeong",
+      "88 pyeong",
+      "99 pyeong"
+    ],
+    "answer": "99 pyeong",
+    "explanation": "On the TV show Jeonchamsi, their new dorm was said to be 99 pyeong."
+  },
+  {
+    "id": "d36",
+    "category": "Debut & career",
+    "text": "Who has a room to herself in the newly moved dorm?",
+    "options": [
+      "Woni",
+      "Liv",
+      "Minami",
+      "May"
+    ],
+    "answer": "Woni"
+  },
+  {
+    "id": "w04",
+    "category": "Woni",
+    "text": "What is Woni's mother's name? (feat. 'I'm oo's daughter.')",
+    "options": [
+      "Mijeong",
+      "Deokyeon",
+      "Yeonjeong",
+      "Gyeongsook"
+    ],
+    "answer": "Deokyeon",
+    "explanation": "It appears in the Anwonjalbu Geoje episode when Woni enters her mother's friend's shop."
+  },
+  {
+    "id": "d37",
+    "category": "Debut & career",
+    "text": "As of 2026, what is the sum of the members' Korean ages?",
+    "options": [
+      "99",
+      "101",
+      "103",
+      "105"
+    ],
+    "answer": "103",
+    "explanation": "Woni 23 + Liv 21 + Minami 21 + May 19 + Zena 19 = 103."
   }
 ]
