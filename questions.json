@@ -1015,6 +1015,71 @@
     "explanation": "2025년 2월 5일에 발매됐어요."
   },
   {
+    "id": "d45",
+    "category": "리센느",
+    "text": "이 사진은 어떤 앨범의 프로필 사진 일까요?",
+    "options": [
+      "YoYo",
+      "SCENEDROME",
+      "Glow Up",
+      "lip bomb"
+    ],
+    "answer": "Glow Up",
+    "image": "images/album_glowup.png"
+  },
+  {
+    "id": "d46",
+    "category": "리센느",
+    "text": "이 사진은 어떤 앨범의 프로필 사진 일까요?",
+    "options": [
+      "YoYo",
+      "SCENEDROME",
+      "Glow Up",
+      "lip bomb"
+    ],
+    "answer": "lip bomb",
+    "image": "images/album_lipbomb.png"
+  },
+  {
+    "id": "d47",
+    "category": "리센느",
+    "text": "이 사진은 어떤 앨범의 프로필 사진 일까요?",
+    "options": [
+      "YoYo",
+      "SCENEDROME",
+      "Glow Up",
+      "Pretty Girl"
+    ],
+    "answer": "Pretty Girl",
+    "image": "images/album_prettygirl.png"
+  },
+  {
+    "id": "d48",
+    "category": "리센느",
+    "text": "이 사진은 어떤 앨범의 프로필 사진 일까요?",
+    "options": [
+      "YoYo",
+      "Runaway",
+      "Glow Up",
+      "Pretty Girl"
+    ],
+    "answer": "Runaway",
+    "image": "images/album_runaway.png"
+  },
+  {
+    "id": "d49",
+    "category": "리센느",
+    "text": "이 사진은 어떤 앨범의 프로필 사진 일까요?",
+    "options": [
+      "SCENEDROME",
+      "Runaway",
+      "Glow Up",
+      "Pretty Girl"
+    ],
+    "answer": "SCENEDROME",
+    "image": "images/album_scenedrome.png"
+  },
+  {
     "id": "d13",
     "category": "리센느",
     "text": "리센느의 미니 3집 'Lip Bomb'이 발매된 시기는?",
@@ -1078,6 +1143,76 @@
     ],
     "answer": "레미니",
     "explanation": "리센느의 공식 캐릭터는 '레미니(REMINI)'로, 팬덤명인 '리마인(REMINE)'을 귀엽게 변형한 이름이에요."
+  },
+  {
+    "id": "d40",
+    "category": "제나",
+    "text": "이 레미니 캐릭터는 어떤 멤버의 캐릭터인가요?",
+    "options": [
+      "원이",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "제나",
+    "explanation": "제나의 레미니 캐릭터인 쩨로밍이에요.",
+    "image": "images/remini_zena.png"
+  },
+  {
+    "id": "d41",
+    "category": "리브",
+    "text": "이 레미니 캐릭터는 어떤 멤버의 캐릭터인가요?",
+    "options": [
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "리브",
+    "explanation": "리브의 레미니 캐릭터인 리뿌예요.",
+    "image": "images/remini_liv.png"
+  },
+  {
+    "id": "d42",
+    "category": "메이",
+    "text": "이 레미니 캐릭터는 어떤 멤버의 캐릭터인가요?",
+    "options": [
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "메이",
+    "explanation": "메이의 레미니 캐릭터인 얌이에요.",
+    "image": "images/remini_may.png"
+  },
+  {
+    "id": "d43",
+    "category": "미나미",
+    "text": "이 레미니 캐릭터는 어떤 멤버의 캐릭터인가요?",
+    "options": [
+      "리브",
+      "미나미",
+      "메이",
+      "제나"
+    ],
+    "answer": "미나미",
+    "explanation": "미나미의 레미니 캐릭터인 밍이에요.",
+    "image": "images/remini_minami.png"
+  },
+  {
+    "id": "d44",
+    "category": "원이",
+    "text": "이 레미니 캐릭터는 어떤 멤버의 캐릭터인가요?",
+    "options": [
+      "리브",
+      "원이",
+      "메이",
+      "제나"
+    ],
+    "answer": "원이",
+    "explanation": "원이의 레미니 캐릭터인 조타예요.",
+    "image": "images/remini_woni.png"
   },
   {
     "id": "d17",
