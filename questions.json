@@ -39,6 +39,30 @@
     "explanation": "원이는 2004년 5월 25일생이에요."
   },
   {
+    "id": "m28",
+    "category": "원이",
+    "text": "원이의 혈액형은?",
+    "options": [
+      "A형",
+      "B형",
+      "AB형",
+      "O형"
+    ],
+    "answer": "B형"
+  },
+  {
+    "id": "m32",
+    "category": "원이",
+    "text": "원이의 MBTI는?",
+    "options": [
+      "ESFP",
+      "ENFP",
+      "INTP",
+      "INFP"
+    ],
+    "answer": "ESFP"
+  },
+  {
     "id": "y01",
     "category": "원이",
     "text": "원이가 개설한 개인 유튜브 채널의 이름은?",
@@ -272,6 +296,30 @@
     "explanation": "리브는 2006년 10월 11일생이에요."
   },
   {
+    "id": "m29",
+    "category": "리브",
+    "text": "리브의 혈액형은?",
+    "options": [
+      "A형",
+      "B형",
+      "AB형",
+      "O형"
+    ],
+    "answer": "A형"
+  },
+  {
+    "id": "m33",
+    "category": "리브",
+    "text": "리브의 MBTI는?",
+    "options": [
+      "ESFP",
+      "ENFP",
+      "INTP",
+      "INFP"
+    ],
+    "answer": "ESFP"
+  },
+  {
     "id": "h35",
     "category": "리브",
     "text": "이 로고는 어느 도시의 상징(Symbol)일까요?",
@@ -373,6 +421,31 @@
     ],
     "answer": "11월 29일",
     "explanation": "미나미는 2006년 11월 29일생이에요."
+  },
+  {
+    "id": "m34",
+    "category": "미나미",
+    "text": "미나미의 MBTI는?",
+    "options": [
+      "ESFP",
+      "ENFP",
+      "INTP",
+      "INFP"
+    ],
+    "answer": "ENFP"
+  },
+  {
+    "id": "m37",
+    "category": "미나미",
+    "text": "가족 중 오빠가 없는 멤버는?",
+    "options": [
+      "원이",
+      "미나미",
+      "리브",
+      "제나"
+    ],
+    "answer": "미나미",
+    "explanation": "미나미는 여동생만 있어요."
   },
   {
     "id": "y03",
@@ -605,6 +678,30 @@
     "explanation": "메이는 2008년 8월 19일생이에요."
   },
   {
+    "id": "m30",
+    "category": "메이",
+    "text": "메이의 혈액형은?",
+    "options": [
+      "A형",
+      "B형",
+      "AB형",
+      "O형"
+    ],
+    "answer": "AB형"
+  },
+  {
+    "id": "m35",
+    "category": "메이",
+    "text": "메이의 MBTI는?",
+    "options": [
+      "ESFP",
+      "ENFP",
+      "INTP",
+      "INFP"
+    ],
+    "answer": "INTP"
+  },
+  {
     "id": "h24",
     "category": "메이",
     "text": "메이의 고향 고양시는 인구 100만 명이 넘어 어떤 도시로 불릴까요?",
@@ -679,6 +776,30 @@
     ],
     "answer": "11월 27일",
     "explanation": "제나는 2008년 11월 27일생이에요."
+  },
+  {
+    "id": "m31",
+    "category": "제나",
+    "text": "제나의 혈액형은?",
+    "options": [
+      "A형",
+      "B형",
+      "AB형",
+      "O형"
+    ],
+    "answer": "A형"
+  },
+  {
+    "id": "m36",
+    "category": "제나",
+    "text": "제나의 MBTI는?",
+    "options": [
+      "ESFP",
+      "ENFP",
+      "INTP",
+      "INFP"
+    ],
+    "answer": "INFP"
   },
   {
     "id": "m15",
@@ -846,6 +967,18 @@
     ],
     "answer": "도미노피자",
     "explanation": "리센느는 도미노피자 광고 모델이에요."
+  },
+  {
+    "id": "m27",
+    "category": "리센느",
+    "text": "리센느가 광고한 탄산음료 브랜드는?",
+    "options": [
+      "칠성사이다",
+      "코카콜라",
+      "나랑드사이다",
+      "펩시"
+    ],
+    "answer": "나랑드사이다"
   },
   {
     "id": "d01",
